@@ -26,3 +26,4 @@ def plano_voo(obj):
 plano_voo(Pardal())
 plano_voo(Avestruz())
 plano_voo(Aviao())
+plano_voo(Passaro())
