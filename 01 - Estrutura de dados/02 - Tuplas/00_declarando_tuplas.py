@@ -13,3 +13,4 @@ print(numeros)
 
 pais = ("Brasil",)
 print(pais)
+# tuples são imutáveis, ou seja, não podem ser alteradas após a criação

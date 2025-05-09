@@ -1,5 +1,5 @@
 lista = [1, "Python", [40, 30, 20]]
 
-lista.copy()
+l2 = lista.copy() # Faz uma cópia da lista
 
 print(lista)  # [1, "Python", [40, 30, 20]]
